@@ -1,3 +1,21 @@
+/*
+ * Name: Nicholas Brunet
+ * Class: CIS 111 (Antelope Valley College)
+ * Professor: Alec Winetrobe
+ * 
+ * Project: Lab 5b
+ * Due: 3/15/19
+ * 
+ * Description: This program imitates the "War" card game. The user picks his
+ * side (Apple or Microsoft) and the number of rounds he wishes to play. Then,
+ * he deals that number of rounds. Each round, his card is compared with the
+ * computer's card, and the winner receives one point. If there is a tie, the
+ * winners each receive a point. If, at the end of the chosen number of rounds
+ * the user and computer are still tied, they enter overtime, and continue
+ * playing until the tie is broken.
+ */
+
+
 import java.awt.EventQueue;
 
 import javax.swing.text.MaskFormatter;
